@@ -739,6 +739,52 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "violetadev",
+      "name": "V",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36138541?v=4",
+      "profile": "http://www.violeta.dev",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "minowau",
+      "name": "Prabhas Jupalli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139740712?v=4",
+      "profile": "https://github.com/minowau",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Pulkitxm",
+      "name": "Pulkit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65671483?v=4",
+      "profile": "http://devpulkit.in",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "brandonyee-cs",
+      "name": "Brandon Yee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139765638?v=4",
+      "profile": "https://github.com/brandonyee-cs",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "wp043",
+      "name": "Wendy Pan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110360465?v=4",
+      "profile": "https://github.com/wp043",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,

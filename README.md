@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://responsively.app/assets/img/logo.png" alt="Responsively Logo" width="150">
   <h1>Responsively App <a href="https://github.com/responsively-org/responsively-app/releases/latest" target="_blank"><img alt="GitHub release" src="https://img.shields.io/github/v/release/responsively-org/responsively-app"></a></h1>
-  <strong>A must-have devtool for web developers for quicker responsive web development. 🚀</strong>
+  <strong>A must-have dev tool for web developers for quicker responsive web development. 🚀</strong>
   <h6>Save time by becoming 5x faster!</h6>
 </div>
 <br>
@@ -59,11 +59,11 @@
 1. Mirrored User-interactions across all devices.
 2. Customizable preview layout to suit all your needs.
 3. One handy elements inspector for all devices in preview.
-4. 30+ built-in device profiles with option to add custom devices.
-5. One-click screenshot all your devices.
-6. Hot reloading supported for developers.
+4. 30+ built-in device profiles with the option to add custom devices.
+5. One-click screenshots on all your devices.
+6. Hot reloading is supported for developers.
 
-Please visit the website to know more about the application - https://responsively.app
+Please visit the website to learn more about the application - https://responsively.app
 
 ## Download
 
@@ -93,7 +93,7 @@ Linux users using an RPM Package Manager can use `rpm`
 sudo rpm -i https://github.com/responsively-org/responsively-app/releases/download/v[VERSION]/Responsively-App-[VERSION].x86_64.rpm
 ```
 
-otherwise download an AppImage from [the releases page](https://github.com/responsively-org/responsively-app/releases)
+otherwise, download an AppImage from [the releases page](https://github.com/responsively-org/responsively-app/releases)
 
 Follow us on Twitter for future updates - [![Twitter Follow](https://img.shields.io/twitter/follow/ResponsivelyApp?style=social)](https://twitter.com/ResponsivelyApp)
 
@@ -117,10 +117,9 @@ Here is the roadmap of the desktop app - https://github.com/responsively-org/res
 
 <p>&nbsp;</p>
 
-<p align="center">
-  <a href="https://www.bairesdev.com/?ref=Responsively" target="_blank" >
-    <img src="https://responsively.app/_next/static/media/bairesdev.2b0bfd41.svg" width="250px" height="120px" alt="Baires Dev">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center" >
+  <a href="https://koptional.com/?ref=Responsively" target="_blank">
+    <img src="https://github.com/responsively-org/responsively-app/assets/1283424/b5f298dd-8e27-4195-91b7-2eb17713bf7a" height="120px" alt="K-Optional Software"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.browserstack.com/?utm_medium=partnered&utm_source=responsively" target="_blank" style="margin-left: 10px;">
     <img src="https://responsively.app/_next/static/media/browserStack.b67d4227.svg" width="250px" height="120px" alt="BrowserStack">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -262,6 +261,13 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
     </tr>
     <tr>
       <td align="center" valign="top" width="20%"><a href="https://sagarhedaoo.com/"><img src="https://avatars.githubusercontent.com/u/10000167?v=4?s=100" width="100px;" alt="Sagar Hedaoo"/><br /><sub><b>Sagar Hedaoo</b></sub></a><br /><a href="https://github.com/responsively-org/responsively-app/commits?author=sagarhedaoo" title="Code">💻</a></td>
+      <td align="center" valign="top" width="20%"><a href="http://www.violeta.dev"><img src="https://avatars.githubusercontent.com/u/36138541?v=4?s=100" width="100px;" alt="V"/><br /><sub><b>V</b></sub></a><br /><a href="https://github.com/responsively-org/responsively-app/commits?author=violetadev" title="Code">💻</a> <a href="https://github.com/responsively-org/responsively-app/commits?author=violetadev" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/minowau"><img src="https://avatars.githubusercontent.com/u/139740712?v=4?s=100" width="100px;" alt="Prabhas Jupalli"/><br /><sub><b>Prabhas Jupalli</b></sub></a><br /><a href="https://github.com/responsively-org/responsively-app/commits?author=minowau" title="Code">💻</a></td>
+      <td align="center" valign="top" width="20%"><a href="http://devpulkit.in"><img src="https://avatars.githubusercontent.com/u/65671483?v=4?s=100" width="100px;" alt="Pulkit"/><br /><sub><b>Pulkit</b></sub></a><br /><a href="https://github.com/responsively-org/responsively-app/commits?author=Pulkitxm" title="Code">💻</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/brandonyee-cs"><img src="https://avatars.githubusercontent.com/u/139765638?v=4?s=100" width="100px;" alt="Brandon Yee"/><br /><sub><b>Brandon Yee</b></sub></a><br /><a href="#content-brandonyee-cs" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/wp043"><img src="https://avatars.githubusercontent.com/u/110360465?v=4?s=100" width="100px;" alt="Wendy Pan"/><br /><sub><b>Wendy Pan</b></sub></a><br /><a href="https://github.com/responsively-org/responsively-app/commits?author=wp043" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -271,4 +277,4 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
